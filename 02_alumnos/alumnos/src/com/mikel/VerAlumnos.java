@@ -22,6 +22,7 @@ public class VerAlumnos {
         textArea1.append("ALUMNOS\n-------\n");
         textArea1.setAutoscrolls(true);
 
+
     }
 
     public void setVisible() {
